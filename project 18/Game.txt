@@ -1,0 +1,17 @@
+Name:Assassins Creed Mirage, Genre:Adventure, CPU:4.4, RAM:8, Multiplayer:No, Available:30, Price:59.99
+Name:Assassins Creed Valhalla, Genre:Adventure/Open World, CPU:3.1, RAM:8, Multiplayer:No, Available:40, Price:29.99
+Name:Black Myth: Wukong, Genre:RPG/Adventure, CPU:4.7, RAM:16, Multiplayer:No, Available:50, Price:159.99
+Name:Call of Duty: Black Ops 6, Genre:FPS, CPU:3.2, RAM:8, Multiplayer:Yes, Available:80, Price:139.99
+Name:Cyberpunk 2077, Genre:RPG/Open World, CPU:4.0, RAM:12, Multiplayer:Yes, Available:80, Price:79.99
+Name:Far Cry 6, Genre:FPS/Open World, CPU:3.1, RAM:8, Multiplayer:Yes, Available:35, Price:31.99
+Name:Far Cry Primal, Genre:Adventure/Open World, CPU:3.2, RAM:4, Multiplayer:No, Available:10, Price:29.99
+Name:FC25, Genre:Sports/Football, CPU:3.2, RAM:8, Multiplayer:Yes, Available:100, Price:129.99
+Name:Grand Theft Auto 5, Genre:Adventure, CPU:3.2, RAM:8, Multiplayer:Yes, Available:90, Price:44.99
+Name:Hogwarts Legacy, Genre:Adventure, CPU:3.2, RAM:16, Multiplayer:No, Available:60, Price:39.99
+Name:Mortal Kombat 1, Genre:Fighting, CPU:3.9, RAM:8, Multiplayer:Yes, Available:120, Price:59.99
+Name:Prince of Persia: The Lost Crown, Genre:Adventure, CPU:3.1, RAM:8, Multiplayer:No, Available:40, Price:39.99
+Name:Red Dead Redemption 2, Genre:Adventure/Open World, CPU:3.3, RAM:8, Multiplayer:Yes, Available:20, Price:37.99
+Name:The Witcher 3: Wild Hunt, Genre:RPG/Adventure, CPU:3.3, RAM:6, Multiplayer:No, Available:30, Price:49.99
+Name:Tomb Raider, Genre:Adventure, CPU:2.66, RAM:4, Multiplayer:Yes, Available:15, Price:22.99
+Name:Until Dawn, Genre:Horror, CPU:4.0, RAM:12, Multiplayer:No, Available:30, Price:109.99
+Name:Watch Dogs 2, Genre:Adventure/Open World, CPU:2.5, RAM:6, Multiplayer:No, Available:20, Price:27.99
